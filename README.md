@@ -1,0 +1,2 @@
+# pamoka
+Mokomės git
